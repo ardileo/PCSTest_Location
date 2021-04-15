@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PCSTest</string>
+    <string name="app_info">Device Tracking System</string>
+    <string name="base_url">http://192.168.44.163:80/</string>
+</resources>
