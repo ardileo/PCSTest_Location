@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/primary_superlight</color>
+
+    <!--primary color-->
+    <!--primary color-->
+    <color name="primary_secondary_superlight">#e7e7ec</color>
+    <color name="primary_secondary_light">#d6dadc</color>
+    <color name="primary_secondary_blue">#c4cdd4</color>
+    <color name="primary_secondary">#aebbc4</color>
+    <color name="primary_secondary_dark">#9397a1</color>
+    <color name="primary_secondary_superdark">#636363</color>
+    <color name="primary_success_superlight">#39DA5D</color>
+    <color name="primary_success_light">#2AC44D</color>
+    <color name="primary_success">#28a745</color>
+    <color name="primary_success_dark">#1A8332</color>
+    <color name="primary_success_superdark">#126425</color>
+    <color name="primary_info_superlight">#0DD3F1</color>
+    <color name="primary_info_light">#17BAD3</color>
+    <color name="primary_info">#17a2b8</color>
+    <color name="primary_info_dark">#117C8D</color>
+    <color name="primary_warning_light">#FFB84E</color>
+    <color name="primary_warning">#ED8B15</color>
+    <color name="primary_warning_dark">#CA7111</color>
+    <color name="primary_danger_superlight">#FF4F59</color>
+    <color name="primary_danger_light">#E64D5C</color>
+    <color name="primary_danger">#dc3545</color>
+    <color name="primary_danger_dark">#A82834</color>
+    <color name="primary_danger_superdark">#861E28</color>
+    <color name="primary_white">#fff</color>
+    <color name="primary_black">#252525</color>
+    <color name="primary_superlight">#F3723F</color>
+    <color name="primary_light">#F3513C</color>
+    <color name="primary">#D83620</color>
+    <color name="primary_dark">#AA3020</color>
+    <color name="primary_superdark">#501300</color>
+
+
+    <!--app color-->
+    <color name="placeholder_light">@color/primary_secondary_light</color>
+    <color name="placeholder_normal">@color/primary_secondary_blue</color>
+
+    <color name="background_base">#f1f1f1</color>
+
+    <color name="text_light">#c8e9e9e9</color>
+    <color name="text_dark">#383838</color>
+
+    <color name="btn_default_text">#de666666</color>
+    <color name="btn_default_bg">#fff</color>
+    <color name="btn_default_text_selected">#fff</color>
+    <color name="btn_default_text_disabled">#a7a7a7</color>
+    <color name="btn_default_bg_selected">#8CC63F</color>
+    <color name="btn_default_bg_disabled">@color/primary_secondary_light</color>
+
+    <color name="bg_status_wait">@color/primary_warning_light</color>
+    <color name="bg_status_confirm">@color/primary_success_light</color>
+    <color name="bg_status_verified">@color/primary_success</color>
+    <color name="bg_status_finish">@color/primary_info</color>
+    <color name="bg_status_cancel">@color/primary_secondary_dark</color>
+    <color name="bg_status_expired">@color/primary_secondary_light</color>
+
+
+</resources>
